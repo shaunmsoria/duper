@@ -8,6 +8,7 @@ defmodule Duper.Application do
     children = [
       Duper.Results,
       { Duper.PathFinder, "." },
+      Duper.WorkerSupervisor,
     ]
 
     opts = [strategy: :one_for_one, name: Duper.Supervisor]
