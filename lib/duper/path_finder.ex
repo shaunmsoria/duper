@@ -12,6 +12,7 @@ defmodule Duper.PathFinder do
   end
 
   def init(path) do
+    IO.puts("Pathfinder started")
     DirWalker.start_link(path)
   end
 

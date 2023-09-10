@@ -1,0 +1,43 @@
+Compiling 1 file (.ex)
+Results started
+Pathfinder started
+WorkSupervisor started
+Results:
+
+["/home/shaun/volume/Course/elixir/project/duper/_build/test/lib/duper/.mix/compile.lock",
+ "/home/shaun/volume/Course/elixir/project/duper/_build/test/lib/dir_walker/.mix/compile.fetch",
+ "/home/shaun/volume/Course/elixir/project/duper/_build/dev/lib/duper/.mix/compile.lock",
+ "/home/shaun/volume/Course/elixir/project/duper/_build/dev/lib/dir_walker/.mix/compile.fetch",
+ "/home/shaun/volume/Course/elixir/project/duper/deps/dir_walker/.fetch"]
+["/home/shaun/volume/Course/elixir/project/duper/.git/refs/remotes/origin/main",
+ "/home/shaun/volume/Course/elixir/project/duper/.git/refs/heads/main"]
+["/home/shaun/volume/Course/elixir/project/duper/_build/test/lib/duper/consolidated/Elixir.Enumerable.beam",
+ "/home/shaun/volume/Course/elixir/project/duper/_build/dev/lib/duper/consolidated/Elixir.Enumerable.beam"]
+["/home/shaun/volume/Course/elixir/project/duper/_build/test/lib/duper/ebin/Elixir.Duper.beam",
+ "/home/shaun/volume/Course/elixir/project/duper/_build/dev/lib/duper/ebin/Elixir.Duper.beam"]
+["/home/shaun/volume/Course/elixir/project/duper/_build/test/lib/dir_walker/ebin/dir_walker.app",
+ "/home/shaun/volume/Course/elixir/project/duper/_build/dev/lib/dir_walker/ebin/dir_walker.app"]
+["/home/shaun/volume/Course/elixir/project/duper/_build/test/lib/duper/consolidated/Elixir.Inspect.beam",
+ "/home/shaun/volume/Course/elixir/project/duper/_build/dev/lib/duper/consolidated/Elixir.Inspect.beam"]
+["/home/shaun/volume/Course/elixir/project/duper/_build/test/lib/duper/consolidated/Elixir.String.Chars.beam",
+ "/home/shaun/volume/Course/elixir/project/duper/_build/dev/lib/duper/consolidated/Elixir.String.Chars.beam"]
+["/home/shaun/volume/Course/elixir/project/duper/_build/test/lib/duper/.mix/compile.elixir_scm",
+ "/home/shaun/volume/Course/elixir/project/duper/_build/dev/lib/duper/.mix/compile.elixir_scm"]
+["/home/shaun/volume/Course/elixir/project/duper/_build/test/lib/duper/consolidated/Elixir.Collectable.beam",
+ "/home/shaun/volume/Course/elixir/project/duper/_build/dev/lib/duper/consolidated/Elixir.Collectable.beam"]
+["/home/shaun/volume/Course/elixir/project/duper/_build/test/lib/duper/consolidated/Elixir.List.Chars.beam",
+ "/home/shaun/volume/Course/elixir/project/duper/_build/dev/lib/duper/consolidated/Elixir.List.Chars.beam"]
+["/home/shaun/volume/Course/elixir/project/duper/_build/test/lib/duper/consolidated/Elixir.Hex.Solver.Constraint.beam",
+ "/home/shaun/volume/Course/elixir/project/duper/_build/dev/lib/duper/consolidated/Elixir.Hex.Solver.Constraint.beam"]
+["/home/shaun/volume/Course/elixir/project/duper/_build/test/lib/dir_walker/.mix/compile.elixir_scm",
+ "/home/shaun/volume/Course/elixir/project/duper/_build/dev/lib/dir_walker/.mix/compile.elixir_scm"]
+["/home/shaun/volume/Course/elixir/project/duper/_build/test/lib/duper/consolidated/Elixir.IEx.Info.beam",
+ "/home/shaun/volume/Course/elixir/project/duper/_build/dev/lib/duper/consolidated/Elixir.IEx.Info.beam"]
+["/home/shaun/volume/Course/elixir/project/duper/_build/test/lib/dir_walker/ebin/Elixir.DirWalker.beam",
+ "/home/shaun/volume/Course/elixir/project/duper/_build/dev/lib/dir_walker/ebin/Elixir.DirWalker.beam"]
+["/home/shaun/volume/Course/elixir/project/duper/.git/logs/refs/heads/main",
+ "/home/shaun/volume/Course/elixir/project/duper/.git/logs/HEAD"]
+["/home/shaun/volume/Course/elixir/project/duper/_build/test/lib/duper/.mix/compile.protocols",
+ "/home/shaun/volume/Course/elixir/project/duper/_build/dev/lib/duper/.mix/compile.protocols"]
+["/home/shaun/volume/Course/elixir/project/duper/_build/test/lib/dir_walker/.mix/compile.elixir",
+ "/home/shaun/volume/Course/elixir/project/duper/_build/dev/lib/dir_walker/.mix/compile.elixir"]

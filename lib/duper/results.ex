@@ -19,6 +19,7 @@ defmodule Duper.Results do
   # Server
 
   def init(:no_args) do
+    IO.puts("Results started")
     { :ok, %{} }
   end
 

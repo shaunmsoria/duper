@@ -7,6 +7,7 @@ defmodule Duper.WorkerSupervisor do
   end
 
   def init(:no_args) do
+    IO.puts("WorkSupervisor started")
     DynamicSupervisor.init(strategy: :one_for_one)
   end
 
